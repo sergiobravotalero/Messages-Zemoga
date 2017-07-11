@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.5.0"
+github "Hearst-DD/ObjectMapper" "2.2.7"
+github "dzenbot/DZNEmptyDataSet" "v1.8.1"
+github "tristanhimmelman/AlamofireObjectMapper" "4.1.0"
